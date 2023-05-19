@@ -1,11 +1,10 @@
 
 const images = [
-'img/imagen_1.jpg',
-'img/imagen_2.jpg',
-'img/imagen_3.jpg',
-'img/imagen_4.jpg'
 
 
+'img/imagen_5.png',
+'img/imagen.jpg',
+'img/prueba_012.webp',
 
 ];
 
