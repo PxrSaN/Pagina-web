@@ -17,3 +17,20 @@ inputs.forEach(input =>{
     input.addEventListener("blur",rem);
 
 })
+
+function login(){
+    var user, password
+    
+    user = document.getElementById("user").value;
+    password = document.getElementById("password").value;
+    
+    
+    if(user == "admin" && password == "1234"){
+    alert("Sesion iniciada.")
+    
+    }else{
+    alert("Datos incorrectos")
+    
+    }
+    
+    }
