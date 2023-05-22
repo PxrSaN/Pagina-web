@@ -27,8 +27,8 @@ function login(){
     
     if(user == "admin" && password == "1234"){
     alert("Sesion iniciada.")
-    
-    }else{
+     
+        }else{
     alert("Datos incorrectos")
     
     }
